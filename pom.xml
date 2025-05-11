@@ -207,8 +207,8 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:Naveed-Nazar/Jenkins-CI-CD-maven-and-docker-project</connection>
-    <developerConnection>scm:git:git@github.com:Naveed-Nazar/Jenkins-CI-CD-maven-and-docker-project</developerConnection>
+    <connection>scm:git:git@github.com:Naveed-Nazar/Jenkins-CI-CD-maven-and-docker-project.git</connection>
+    <developerConnection>scm:git:git@github.com:Naveed-Nazar/Jenkins-CI-CD-maven-and-docker-project.git</developerConnection>
     <tag>HEAD</tag>
     <url>https://github.com/Naveed-Nazar/Jenkins-CI-CD-maven-and-docker-project</url>
   </scm>
