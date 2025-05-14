@@ -22,7 +22,7 @@ To enable Maven integration with Jenkins, I installed Maven on the VM and config
 
 I created another virtual machine on VirtualBox for Docker host
 
-Installed docker on another VM and enabled, and started docker
+Installed docker on another VM and enabled, and started docker.
   
 
 created a new user for Docker management and added him to Docker (default) group
